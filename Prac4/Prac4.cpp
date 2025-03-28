@@ -8,5 +8,6 @@ using namespace std;
 int main()
 {
 	cout << "Hello CMake." << endl;
+	//THis is a commit test.
 	return 0;
 }
